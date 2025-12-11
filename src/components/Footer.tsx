@@ -126,10 +126,10 @@ export function Footer() {
             © {new Date().getFullYear()} T & T Fuels Limited. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
-            <a href="/privacypolicy" className="hover:text-primary transition-colors">
+            <a href="/privacy" className="hover:text-primary transition-colors">
               Privacy Policy
             </a>
-            <a href="/termsofservice" className="hover:text-primary transition-colors">
+            <a href="/terms" className="hover:text-primary transition-colors">
               Terms of Service
             </a>
           </div>
