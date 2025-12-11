@@ -9,8 +9,8 @@ import Services from "./pages/Services";
 import Sites from "./pages/Sites";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-import PrivacyPolicy from "./pages/PrivacyPolicy";
-import TermsOfService from "./pages/TermsOfService";
+import PrivacyPolicy from "./pages/Privacy";
+import TermsOfService from "./pages/Terms";
 
 const queryClient = new QueryClient();
 
