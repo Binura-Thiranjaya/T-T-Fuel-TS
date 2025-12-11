@@ -10,7 +10,7 @@ import Sites from "./pages/Sites";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import TermsOfService from "./pages/TermsOfService.tsx";
+import TermsOfService from "./pages/TermsOfService";
 
 const queryClient = new QueryClient();
 
