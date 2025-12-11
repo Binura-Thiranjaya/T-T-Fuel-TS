@@ -29,9 +29,11 @@ const App = () => (
           <Route path="/contact" element={<Contact />} />
 */}
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-          <Route path="*" element={<NotFound />} />
+
           <Route path="/privacypolicy" element={<PrivacyPolicy />} />
           <Route path="/termsofservice" element={<TermsOfService />} />
+          <Route path="*" element={<NotFound />} />
+       
 
         </Routes>
       </BrowserRouter>
